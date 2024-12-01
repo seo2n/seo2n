@@ -1,7 +1,7 @@
 Hi ✨
 
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 40px;">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo2&nanuraghazra&layout=compact" alt="Top Langs" style="width: 48%;"/>
   
