@@ -1,8 +1,11 @@
 <h4>Hi 😺✨</h4>
 
-<p>. ^,,,^</p>
-<p>( ₌•・•₌)</p>
-<p>/ づ =͟͟͞͞♡</p>
+<div style="line-height: 1;">
+   ^,,,^<br>
+  ( ₌•・•₌)<br>
+  / づ =͟͟͞͞♡
+</div>
+
 
 <div style="display: flex; justify-content: space-between;">
   
